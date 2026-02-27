@@ -1,0 +1,5 @@
+numpy
+torch
+gymnasium[classic_control,box2d]
+matplotlib
+imageio
