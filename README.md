@@ -2,9 +2,11 @@
 
 > A comprehensive implementation of foundational to advanced Reinforcement Learning algorithms in Python, including DP, Q-Learning, DQN, REINFORCE, and Imitation Learning.
 
-**Tags:** `reinforcement-learning` `deep-q-network` `policy-gradient` `behavior-cloning` `dynamic-programming` `python` `gymnasium` `pytorch`
-
-A modular collection of Reinforcement Learning (RL) and Imitation Learning algorithms implemented in Python, covering foundational to advanced techniques.
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg?style=flat)
+![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red.svg?style=flat)
+![Gymnasium](https://img.shields.io/badge/Environment-Gymnasium-green.svg?style=flat)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg?style=flat)
+![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat)
 
 ## Algorithms
 
